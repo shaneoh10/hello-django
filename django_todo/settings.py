@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wpd-sj1l^a76nhm79o%h%(2krigs3$i-kqbsttj80p$mn!qel2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shaneoh10-django.herokuapp.com']
 
 
 # Application definition
